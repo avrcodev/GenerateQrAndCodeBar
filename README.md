@@ -51,14 +51,6 @@ Para realizar cualquier aporte puedes enviar a Paypal velandia_angelo@outlook.co
 
 ![image](https://user-images.githubusercontent.com/103347375/164877829-268dc42a-782d-4f79-ad96-71b409718181.png)
 
-## Autores ✒️
-* **Angelo Velandia** - *Trabajo Completo* - [angelovelandia](https://github.com/angelovelandia)
-
-## Licencia 📄
-
-Este proyecto está bajo la Licencia Gratuita
-
-## Expresiones de Gratitud 🎁
 
 Muchas gracias a todos los que descarguen y usen este proyecto para sus estudios o trabajos.
 
