@@ -39,10 +39,6 @@ _Select2_,
 _SweetAlert2_,
 _JsBarcode_
 
-## Donaciones 🖇️
-
-Para realizar cualquier aporte puedes enviar a Paypal velandia_angelo@outlook.com
-
 ## Interfaz grafica 🖥
 
 ![image](https://user-images.githubusercontent.com/103347375/164877800-11cc9cd0-b383-4159-af66-f0f42a334e7b.png)
@@ -55,4 +51,4 @@ Para realizar cualquier aporte puedes enviar a Paypal velandia_angelo@outlook.co
 Muchas gracias a todos los que descarguen y usen este proyecto para sus estudios o trabajos.
 
 ---
-⌨️ con ❤️ por [angelovelandia](https://github.com/angelovelandia) 😊
+⌨️ con ❤️ por [avrcodev](https://github.com/avrcodev) 😊
